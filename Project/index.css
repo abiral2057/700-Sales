@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.full-e-commerce-website {
+  position: absolute;
+  top: 54px;
+  left: 206px;
+  display: inline-block;
+  width: 1101px;
+  height: 92px;
+}
+.frame-16-2-2,
+.frame-16-2-21 {
+  position: absolute;
+  top: 211px;
+  left: 342px;
+  width: 756px;
+  height: 890px;
+  object-fit: cover;
+}
+.frame-16-2-21 {
+  left: 1148px;
+  width: 808px;
+  height: 954px;
+}
+.goals-icon,
+.hug-icon {
+  position: absolute;
+  top: 727px;
+  left: 166px;
+  width: 274px;
+  height: 274px;
+  overflow: hidden;
+}
+.goals-icon {
+  top: 0;
+  left: 1427px;
+  width: 355.11px;
+  height: 225.09px;
+}
+.full-e-commerce-website-templa-parent {
+  position: relative;
+  background-color: var(--character-primaryinverse);
+  width: 100%;
+  height: 960px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 60px;
+  color: #34333b;
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,1168 @@
+body {
+  line-height: normal;
+}
+.design15 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.studio-of13,
+body {
+  margin: 0;
+}
+.design-studio-of-container27 {
+  line-break: anywhere;
+  width: 100%;
+}
+.design-studio-of-container26,
+.logo11 {
+  position: absolute;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.design-studio-of-container26 {
+  top: 5px;
+  line-height: 24px;
+  font-weight: 900;
+  width: 104px;
+  height: 43px;
+}
+.logo11 {
+  top: 0;
+  font-size: var(--font-size-7xl);
+  line-height: 41.3px;
+  font-family: var(--font-condiment);
+  color: var(--color-black);
+  justify-content: center;
+  width: 103px;
+  height: 52px;
+}
+.design-studio-of-parent11 {
+  position: relative;
+  width: 104px;
+  height: 52px;
+  flex-shrink: 0;
+}
+.customise13,
+.men15,
+.sale13,
+.women15 {
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 31.33px;
+  height: 17px;
+  flex-shrink: 0;
+}
+.customise13,
+.sale13,
+.women15 {
+  width: 55.04px;
+}
+.customise13,
+.sale13 {
+  width: 75.78px;
+}
+.sale13 {
+  font-size: var(--font-size-base);
+  width: 32.23px;
+}
+.men-parent11 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xl);
+}
+.search11 {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-abeezee);
+  color: var(--color-gray-900);
+  text-align: left;
+}
+.divplaceholder12 {
+  position: absolute;
+  top: 10px;
+  left: 48px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-md) var(--padding-32xs) 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.search-products12 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #478755;
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-radius: var(--br-2xl);
+  width: 180px;
+  height: 40px;
+}
+.material-design-iconsoutlined49 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.open-search-modal13 {
+  position: absolute;
+  height: calc(100% - 4px);
+  width: calc(100% - 140px);
+  top: 2px;
+  right: 138px;
+  bottom: 2px;
+  left: 2px;
+  border-radius: var(--br-2xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-24xs) var(--padding-20xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div449 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  width: 180px;
+  height: 40px;
+  flex-shrink: 0;
+}
+.div450 {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-16xs) 0 var(--padding-8xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.div-parent14 {
+  justify-content: center;
+  gap: var(--gap-2xl);
+}
+.div-parent14,
+.frame-parent20,
+.group-parent17 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.frame-parent20 {
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+  color: var(--color-gray-2100);
+  font-family: var(--font-abeezee);
+}
+.group-parent17 {
+  width: 1362px;
+  height: 50px;
+  flex-shrink: 0;
+  justify-content: center;
+  gap: var(--gap-8xl);
+}
+.div451,
+.frame-wrapper11 {
+  position: absolute;
+  left: 0;
+  overflow: hidden;
+}
+.frame-wrapper11 {
+  top: 0;
+  background-color: var(--character-primaryinverse);
+  width: 1512px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-16xs) var(--padding-lg);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.div451 {
+  top: 74px;
+  background-color: var(--color-gray-200);
+  box-shadow: 0-0.998677134513855px 0#e5e5e5 inset;
+}
+.frame-parent19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 131.99px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-600);
+  font-family: var(--font-montserrat);
+}
+.nike-just-do-itjpg-icon3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.enjoy-the-sun {
+  color: var(--character-primaryinverse);
+}
+.winter-is-here-container {
+  position: absolute;
+  top: 43px;
+  left: calc(50% - 551px);
+  line-height: 60px;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  width: 1082px;
+  height: 120px;
+}
+.div452 {
+  position: relative;
+  width: 1416px;
+  height: 705px;
+  flex-shrink: 0;
+  background-image: url(./public/div6@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.lorem-ipsum-dolor {
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  font-family: var(--font-condiment);
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1148px;
+}
+.wrapper-icon3 {
+  position: relative;
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.icon-wrapper3 {
+  background-color: var(--hitbox);
+  overflow: hidden;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.text3 {
+  position: relative;
+  font-size: var(--body-regular-size);
+  line-height: 22px;
+  font-family: var(--body-regular);
+  color: var(--character-primaryinverse);
+  text-align: center;
+}
+.button15,
+.figure24 {
+  display: flex;
+  align-items: center;
+}
+.button15 {
+  cursor: pointer;
+  border: 1px solid var(--color-black);
+  padding: var(--padding-27xs) var(--padding-14xs);
+  background-color: var(--color-black);
+  border-radius: var(--br-xl);
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.04);
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-3xs);
+}
+.figure24 {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.div44edacc1-3092-4227-8ca3-113 {
+  position: absolute;
+  top: 132px;
+  left: 40px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-24xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+}
+.featured {
+  position: relative;
+  line-height: 28px;
+}
+.divec379fb8-c0d3-47ad-8d13-c4 {
+  display: flex;
+  flex-direction: row;
+  padding: 0 1327px var(--padding-2xs) var(--padding-24xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div454 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+  height: 685.13px;
+}
+.exclusive-nike-shoes2 {
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  width: 477.89px;
+}
+.download-the-nike-app-https2 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-22xs) var(--padding-5xs) var(--padding-19xs)
+    var(--padding-7xs);
+  background-color: var(--color-gray-2100);
+  border-radius: var(--br-xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div455,
+.div456 {
+  position: absolute;
+}
+.div456 {
+  bottom: 48.02px;
+  left: 48px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 var(--padding-4xl) 0 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.div455 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-image: url(./public/div18@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.div453 {
+  position: relative;
+  border-radius: var(--br-lg);
+  background-color: var(--character-primaryinverse);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 702px;
+  height: 685.13px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.div457,
+.div458 {
+  position: absolute;
+}
+.div457 {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  height: 685px;
+  background-image: url(./public/div19@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.div458 {
+  border: 0;
+  display: flex;
+  font-family: var(--font-abeezee);
+  font-size: var(--font-size-2xl);
+  background-color: transparent;
+  bottom: 48.02px;
+  left: 48px;
+  flex-direction: column;
+  padding: 0 var(--padding-33xl) 0 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.figure25 {
+  position: relative;
+  width: 702px;
+  height: 685px;
+  flex-shrink: 0;
+}
+.div0b8d57ab-8dea-4555-a5ca-512 {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  flex-direction: row;
+  padding: 0 var(--padding-24xs);
+  gap: var(--gap-sm);
+  font-size: var(--font-size-3xl);
+}
+.div0b8d57ab-8dea-4555-a5ca-512,
+.div459,
+.div5d9c9aa9-8344-4ffe-9587-52 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div5d9c9aa9-8344-4ffe-9587-52 {
+  position: absolute;
+  top: 1000px;
+  left: 42px;
+  flex-direction: column;
+}
+.div459 {
+  flex-direction: row;
+  padding: var(--padding-16xs) var(--padding-35xl) var(--padding-16xs)
+    var(--padding-3xl);
+}
+.div460 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 700px;
+  background-image: url(./public/div20@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.shop-mens {
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 24px;
+  font-family: var(--font-abeezee);
+  color: var(--character-primaryinverse);
+  text-align: left;
+}
+.shop-mens-httpswwwnikec1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-22xs) var(--padding-6xs) var(--padding-19xs)
+    var(--padding-7xs);
+  background-color: var(--color-gray-2100);
+  position: absolute;
+  top: 612.98px;
+  left: 48px;
+  border-radius: var(--br-xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.figure26 {
+  position: relative;
+  width: 465.11px;
+  height: 700px;
+  flex-shrink: 0;
+}
+.div461,
+.nike-just-do-itpng-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 465.11px;
+  height: 700px;
+}
+.div461 {
+  width: 100%;
+  right: 0;
+  background-image: url(./public/div13@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.shop-womens-httpswwwnike1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-22xs) var(--padding-4xs) var(--padding-19xs)
+    var(--padding-7xs);
+  background-color: var(--color-gray-2100);
+  position: absolute;
+  top: 612.98px;
+  left: 48px;
+  border-radius: var(--br-xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div462 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 700px;
+}
+.section4,
+.shop-kids-httpswwwnikec1,
+.ul85 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.shop-kids-httpswwwnikec1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-22xs) var(--padding-7xs) var(--padding-19xs);
+  background-color: var(--color-gray-2100);
+  position: absolute;
+  top: 612.98px;
+  left: 48px;
+  border-radius: var(--br-xl);
+  overflow: hidden;
+  flex-direction: row;
+}
+.section4,
+.ul85 {
+  gap: var(--gap-sm);
+}
+.ul85 {
+  overflow: hidden;
+  flex-direction: row;
+  padding: 0 var(--padding-2xl) var(--padding-sm) var(--padding-3xl);
+}
+.section4 {
+  flex-direction: column;
+}
+.div593c4ce6-272b-4883-b47c-df2,
+.div6d419b08-95ee-42ce-bbad-97 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div593c4ce6-272b-4883-b47c-df2 {
+  position: absolute;
+  top: 2766px;
+  left: -6px;
+}
+.div6d419b08-95ee-42ce-bbad-97 {
+  padding: 0 1313px var(--padding-2xs) var(--padding-24xs);
+}
+.winter-possibilities {
+  position: absolute;
+  top: 585px;
+  left: calc(50% - 649px);
+  line-height: 126px;
+  text-transform: uppercase;
+}
+.div463 {
+  position: relative;
+  width: 1416px;
+  height: 688px;
+  flex-shrink: 0;
+  background-image: url(./public/div22@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.explore-gifts,
+.lorem-ipsum-dolor1 {
+  position: relative;
+  line-height: 24px;
+  text-align: center;
+}
+.lorem-ipsum-dolor1 {
+  font-size: var(--font-size-base);
+  color: var(--color-gray-2100);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1052.36px;
+}
+.explore-gifts {
+  font-size: var(--font-size-sm);
+  font-family: var(--font-abeezee);
+  color: var(--character-primaryinverse);
+}
+.explore-gifts-httpswwwnik,
+.figure29 {
+  display: flex;
+  justify-content: flex-start;
+}
+.explore-gifts-httpswwwnik {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-22xs) 23.09375px var(--padding-19xs) var(--padding-7xs);
+  background-color: var(--color-gray-2100);
+  border-radius: var(--br-xl);
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.figure29 {
+  flex-direction: column;
+  align-items: center;
+  gap: 48px;
+}
+.dive1431684-df85-46cb-a935-21 {
+  flex-direction: row;
+  padding: 0 var(--padding-24xs);
+  font-size: 115.5px;
+  color: var(--character-primaryinverse);
+}
+.div464,
+.dive1431684-df85-46cb-a935-21,
+.divfe82a517-194e-4b8c-9a44-8b {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divfe82a517-194e-4b8c-9a44-8b {
+  position: absolute;
+  top: 1766px;
+  left: 42px;
+  width: 1428px;
+  flex-direction: column;
+  font-size: var(--font-size-5xl);
+}
+.div464 {
+  flex-direction: row;
+  padding: var(--padding-16xs) 1355px var(--padding-16xs) var(--padding-3xl);
+}
+.div465,
+.nike-just-do-itpng-icon9 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.nike-just-do-itpng-icon9 {
+  height: calc(100% - 9px);
+  bottom: 9px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.div465 {
+  height: 471.09px;
+}
+.mens {
+  position: relative;
+  line-height: 24px;
+}
+.mens-httpswwwnikecomin {
+  position: absolute;
+  top: 384.08px;
+  left: 48px;
+  border-radius: var(--br-xl);
+  background-color: var(--character-primaryinverse);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-22xs) 20.6875px var(--padding-19xs) var(--padding-7xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.figure30 {
+  position: relative;
+  width: 465.11px;
+  height: 471.09px;
+  flex-shrink: 0;
+}
+.womens {
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 24px;
+  font-family: var(--font-abeezee);
+  color: var(--color-gray-2100);
+  text-align: left;
+}
+.kids-httpswwwnikecomin,
+.womens-httpswwwnikecom {
+  position: absolute;
+  top: 384.08px;
+  left: 48px;
+  border-radius: var(--br-xl);
+  background-color: var(--character-primaryinverse);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.womens-httpswwwnikecom {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-22xs) 22.390625px var(--padding-19xs)
+    var(--padding-7xs);
+}
+.kids-httpswwwnikecomin {
+  padding: var(--padding-22xs) 22.6875px var(--padding-19xs) var(--padding-7xs);
+}
+.figure32 {
+  position: relative;
+  width: 465.11px;
+  height: 471.09px;
+  flex-shrink: 0;
+  font-size: var(--body-regular-size);
+}
+.ul86 {
+  overflow: hidden;
+  padding: 0 var(--padding-2xl) var(--padding-sm) var(--padding-3xl);
+  gap: var(--gap-sm);
+  font-size: var(--font-size-sm);
+}
+.a87,
+.a88,
+.a89,
+.divf326865b-06a2-4529-8e48-db,
+.h416,
+.ul86 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divf326865b-06a2-4529-8e48-db {
+  position: absolute;
+  top: 3598px;
+  left: 0;
+  width: 1512px;
+}
+.a87,
+.a88,
+.a89,
+.h416 {
+  overflow: hidden;
+}
+.h416 {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  padding: 0 var(--padding-24xl) var(--padding-32xs) 0;
+}
+.a87,
+.a88,
+.a89 {
+  padding: 0 var(--padding-14xl) var(--padding-32xs) 0;
+}
+.a88,
+.a89 {
+  padding: 0 var(--padding-16xl) var(--padding-32xs) 0;
+}
+.a89 {
+  padding: 0 var(--padding-15xl) var(--padding-32xs) 0;
+}
+.div469,
+.ul87 {
+  position: absolute;
+  left: 0;
+}
+.ul87 {
+  top: -1px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 var(--padding-16xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.div469 {
+  top: 48px;
+  width: 184px;
+  height: 144px;
+  color: var(--color-gray-1100);
+}
+.a91,
+.div469,
+.h417 {
+  overflow: hidden;
+}
+.h417 {
+  position: absolute;
+  top: -1px;
+  left: 232px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-23xl) var(--padding-32xs) 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.a91 {
+  padding: 0 var(--padding-17xl) var(--padding-32xs) 0;
+}
+.a91,
+.a92,
+.a93 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.a92 {
+  overflow: hidden;
+  padding: 0 var(--padding-8xl) var(--padding-32xs) 0;
+}
+.a93 {
+  padding: 0 var(--padding-9xl) var(--padding-32xs) 0;
+}
+.a93,
+.a94,
+.div470 {
+  overflow: hidden;
+}
+.a94 {
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-7xl) var(--padding-32xs) 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div470 {
+  position: absolute;
+  top: 48px;
+  left: 232px;
+  width: 184px;
+  height: 144px;
+  color: var(--color-gray-1100);
+}
+.a95,
+.a96,
+.a97,
+.a98,
+.h418 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.h418 {
+  position: absolute;
+  top: -1px;
+  left: 464px;
+  padding: 0 var(--padding-19xl) var(--padding-32xs) 0;
+}
+.a95,
+.a96,
+.a97,
+.a98 {
+  padding: 0 var(--padding-13xl) var(--padding-32xs) 0;
+}
+.a96,
+.a97,
+.a98 {
+  padding: 0 var(--padding-10xl) var(--padding-32xs) 0;
+}
+.a97,
+.a98 {
+  padding: 0 var(--padding-xl) var(--padding-32xs) 0;
+}
+.a98 {
+  padding: 0 var(--padding-11xl) var(--padding-32xs) 0;
+}
+.div471 {
+  position: absolute;
+  top: 48px;
+  left: 464px;
+  width: 184px;
+  height: 144px;
+  color: var(--color-gray-1100);
+}
+.a99,
+.div471,
+.h419 {
+  overflow: hidden;
+}
+.h419 {
+  position: absolute;
+  top: -1px;
+  left: 696px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-27xl) var(--padding-32xs) 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--body-regular-size);
+}
+.a99 {
+  padding: 0 var(--padding-xs) var(--padding-32xs) 0;
+}
+.a100,
+.a101,
+.a99 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.a100 {
+  overflow: hidden;
+  padding: 0 var(--padding-12xl) var(--padding-32xs) 0;
+}
+.a101 {
+  padding: 0 var(--padding-5xl) var(--padding-32xs) 0;
+}
+.a101,
+.a102,
+.div472 {
+  overflow: hidden;
+}
+.a102 {
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-3xs) var(--padding-32xs) 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div472 {
+  position: absolute;
+  top: 48px;
+  left: 696px;
+  width: 184px;
+  height: 144px;
+  color: var(--color-gray-1100);
+}
+.div468 {
+  position: relative;
+  width: 880px;
+  height: 192px;
+  flex-shrink: 0;
+}
+.div1cf9c3b1-4944-4882-9606-0f4 {
+  position: absolute;
+  top: 4201px;
+  left: -6px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-30xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-sm);
+}
+.find-a-store13,
+.send-us-feedback13 {
+  position: relative;
+  line-height: 32.67px;
+  text-transform: uppercase;
+}
+.send-us-feedback13 {
+  font-size: var(--font-size-12xs);
+}
+.div477,
+.ul91 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ul91 {
+  flex-direction: column;
+  padding: 0 var(--padding-26xl) 0 0;
+  gap: var(--gap-8xs);
+}
+.div477 {
+  position: absolute;
+  top: 0;
+  left: 6px;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 0 0 var(--padding-31xs);
+}
+.div476,
+.get-help13 {
+  position: relative;
+  color: var(--character-primaryinverse);
+}
+.div476 {
+  width: 257.25px;
+  height: 178.28px;
+  flex-shrink: 0;
+}
+.get-help13 {
+  font-size: var(--font-size-10xs);
+  letter-spacing: 0.5px;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+.delivery13 {
+  position: relative;
+  font-size: var(--font-size-5xs);
+  line-height: 28px;
+}
+.div479,
+.ul92 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ul92 {
+  flex-direction: column;
+  padding: 0 var(--padding-6xl) 0 0;
+  gap: var(--gap-7xs);
+}
+.div479 {
+  position: absolute;
+  top: 0;
+  left: 6px;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 0 0 var(--padding-29xs);
+}
+.div478,
+.investors13 {
+  position: relative;
+  font-size: var(--font-size-8xs);
+}
+.div478 {
+  width: 257.25px;
+  height: 213px;
+  flex-shrink: 0;
+}
+.investors13 {
+  line-height: 28px;
+}
+.ul93 {
+  display: flex;
+  flex-direction: column;
+  padding: 0 var(--padding-28xl) 0 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.div480 {
+  position: relative;
+  width: 257.25px;
+  height: 151px;
+  flex-shrink: 0;
+  font-size: var(--font-size-5xs);
+}
+.div474,
+.div475 {
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-29xl) 0 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div474 {
+  position: absolute;
+  top: 40px;
+  left: 34px;
+  padding: 0 var(--padding-24xs) 0 0;
+}
+.design-highly-inspired13 {
+  position: relative;
+  line-height: 12px;
+}
+.div483 {
+  position: absolute;
+  top: 12px;
+  left: 8px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-12xs) var(--padding-32xl) 0 0;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.guides13 {
+  position: absolute;
+  top: 10px;
+  left: calc(50% - 36.11px);
+  line-height: 28px;
+  text-align: center;
+}
+.our-privacy-policy13,
+.terms-of-sale13,
+.terms-of-use13 {
+  position: absolute;
+  top: 10px;
+  right: 237.08px;
+  line-height: 28px;
+}
+.our-privacy-policy13,
+.terms-of-use13 {
+  right: 138.72px;
+}
+.our-privacy-policy13 {
+  right: 8.03px;
+  font-size: var(--font-size-8xs);
+}
+.div482,
+.ul94 {
+  position: absolute;
+}
+.ul94 {
+  top: 16px;
+  left: 686px;
+  width: 680px;
+  height: 46px;
+  text-align: right;
+  font-size: var(--font-size-5xs);
+}
+.div482 {
+  top: 269px;
+  left: 34px;
+  width: 1372px;
+  height: 62px;
+  font-size: var(--font-size-8xs);
+}
+.div473,
+.footer14 {
+  position: absolute;
+  height: 331px;
+}
+.div473 {
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+}
+.footer14 {
+  width: 100%;
+  top: 4452px;
+  right: 0;
+  left: 0;
+  background-color: var(--color-gray-2100);
+  font-size: var(--font-size-10xs);
+  color: var(--color-gray-1000);
+}
+.homepage {
+  position: relative;
+  background-color: var(--character-primaryinverse);
+  width: 100%;
+  height: 4783px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-2100);
+  font-family: var(--font-abeezee);
+}
